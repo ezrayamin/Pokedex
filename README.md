@@ -31,5 +31,5 @@ You could see their stats by simply clicking each card, and go back to the home 
 https://user-images.githubusercontent.com/73160378/123040073-03674c80-d3a8-11eb-8047-0a7be56a536f.mp4
 
 # Credits
-UI design by: Saephul Nahwan
+The UI design is inspired by: Saephul Nahwan
 https://dribbble.com/shots/6540871-Pokedex-App
